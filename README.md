@@ -9,8 +9,8 @@ A powerful Chrome extension designed to make the internet more accessible for us
 
 
 ## 🚀 Tagline
-**Adaptation Made Easy.** Personalize the web in real time with AI-powered accessibility.
-A customizable Chrome extension that empowers users with disabilities to personalize and enhance their web experience through AI-driven accessibility tools and controls.
+    Personalize the web in real time with AI-powered accessibility.
+    A customizable Chrome extension that empowers users with disabilities to personalize and enhance their web experience through AI-driven accessibility tools and controls.
 ---
 
 ## 🧠 Problem Statement

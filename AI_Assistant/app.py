@@ -80,7 +80,7 @@ def load_api_key():
         return st.session_state.api_key
     # Then try to get from environment variable
     # api_key = os.getenv("GEMINI_API_KEY", "")
-    api_key='AIzaSyBK6b1hH9D55uL1BX5e_QacjBXMI4sSvCs'
+    api_key= #GEMINI_API_KEY
     return api_key
 
 # Setup the browser and context

@@ -3,7 +3,7 @@ import google.generativeai as genai
 import speech_recognition as sr
 import pyttsx3
 
-GENAI_API_KEY='AIzaSyCPDFqKQha-uYDyQUT_fmvkrzDjHEvZhoE'
+GENAI_API_KEY= #GENAI_API_KEY
 
 # Step 1: Configure Gemini API
 def configure_gemini(api_key):

@@ -20,8 +20,8 @@ from main import setup_browser, agent_loop
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 # API KEYS
-GENAI_API_KEY = "AIzaSyAXzmHm2OTvvjtUmDyQNy-tgDlslaxbOEo"  # Gemini
-ASSEMBLY_API_KEY = "5c4816e6d3b34495b46942a122bc07d4"  # AssemblyAI
+GENAI_API_KEY =   # Gemini
+ASSEMBLY_API_KEY =   # AssemblyAI
 
 # Initialize session state for transcript
 if 'transcript' not in st.session_state:
